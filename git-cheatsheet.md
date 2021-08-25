@@ -42,4 +42,4 @@ Now that your git repository is setup, you can start using git. here are a coupl
 > 4. then I run `git commit -m "<description>"` to commit the new files to the local repository.
 > 5. finally I run `git push origin master` to push the local repository to the remote repository.
 
-If I switch to a new computer, I'll either use `git clone` to download the repository from github or `git pull` to update the local repository if I already had cloned it previously and just want to update it with my changes.
+If I switch to a new computer, I'll either use `git clone` to download the repository from github or `git pull` to update an exisiting local repository.
