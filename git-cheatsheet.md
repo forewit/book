@@ -6,21 +6,21 @@ There are two main ways that I start working on a project with git:
 ## Create a new repository
 Create a new folder and cd into it:
 ```bash
-cd <path-to-folder>
+$ cd <path-to-folder>
 ```
 then run `git init` to initialize a new git repository
 ```bash
-git init
+$ git init
 ```
 Go ahead and create a new repository on github and copy the git url. Then you can run `git remote add origin <git-url>` to add the remote repository to your local repository:
 ```bash
-git remote add origin <git-url>
+$ git remote add origin <git-url>
 ```
 
 ## Clone an existing repository from github
 Use the `git clone` command to clone a repository from github:
 ```bash
-git clone <git URL>
+$ git clone <git URL>
 ```
 **That's it!** you do not need use `git init` becasause cloning a repository will create a new directory for you with all the git configuration done.
 
@@ -42,4 +42,4 @@ Now that your git repository is setup, you can start using git. here are a coupl
 > 4. then I run `git commit -m "<description>"` to commit the new files to the local repository.
 > 5. finally I run `git push origin master` to push the local repository to the remote repository.
 
-If I switch to a new computer, I'll either use `git clone` to download the repository from github or `git pull` to update an exisiting local repository.
+If I switch to a new computer, I'll either use `git clone <url>` to download the repository from github or `git pull origin master` to update an exisiting local repository.
