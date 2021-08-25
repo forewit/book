@@ -1,7 +1,7 @@
 # Learning what I can...
 Notes on basic research into Covid-19 including notes on my lookup process.
 
-### Expected vaccine efficacy and effects on transmission (pre-vaccine)
+## Expected vaccine efficacy and effects on transmission (pre-vaccine)
 - **Search path:** Scholar.google.com > Search "Covid-19 vaccine transmission" > first result
 - **Source:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505651/
 - **Caveats (personal):** this article was written prior to release of the vaccines. but I do agree with the conclusion
@@ -15,9 +15,16 @@ Notes on basic research into Covid-19 including notes on my lookup process.
 - **Conclusion (in it's entirety):** A two-dose regimen of the NVX-CoV2373 vaccine administered to adult participants conferred 89.7% protection against SARS-CoV-2 infection and showed high efficacy against the B.1.1.7 variant. (Funded by Novavax; EudraCT number, 2020-004123-16. opens in new tab.)
 - **Takeaway:** Verification of of the first takeaway: the current vaccine is effective in preventing hospitalization. 
 
-### Discussion on vaccine early approval
+## Discussion on vaccine early approval
 - **Search path:** Scholar.google.com > Search "Covid-19 vaccine early approval" > filter by written in 2021 > first result
 - **Source:** https://www.acpjournals.org/doi/full/10.7326/M20-7357
 - **Caveats:** none
-- **Conclusion (in it's entirety):** 
-- **Takeaway:** 
+- **Conclusion (in it's entirety):** the paper is short and does not offer a summary conclusion. 
+- **Takeaway:** General disposition is that vaccines are needed, but concerns are raised that long-term effects are unknown.
+
+## Discussion on vaccine safety
+- **Search path:** Scholar.google.com > Search "Covid-19 vaccine safety" > filter by written in 2021 > second result (first was related to early monitoring)
+- **Source:** https://www.nejm.org/doi/full/10.1056/NEJMoa2104983 for a similar conclusion & takeaway, see https://www.sciencedirect.com/science/article/pii/S0264410X2100284X
+- **Caveats:** This study focused on pregnant people
+- **Conclusion (in it's entirety):** Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.
+- **Takeaway:** long term studies (neccesarily) have not been done.
