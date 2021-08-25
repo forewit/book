@@ -1,5 +1,5 @@
 # Learning what I can...
-Notes on basic research into Covid-19 including notes on my lookup process.
+Notes on Covid-19 vaccines including sources and discovery method.
 
 ## Expected vaccine efficacy and effects on transmission (pre-vaccine)
 - **Search path:** Scholar.google.com > Search "Covid-19 vaccine transmission" > first result
@@ -28,3 +28,14 @@ Notes on basic research into Covid-19 including notes on my lookup process.
 - **Caveats:** This study focused on pregnant people
 - **Conclusion (in it's entirety):** Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.
 - **Takeaway:** long term studies (neccesarily) have not been done.
+
+
+## CDC Announcement about the Delta Varriant:
+- **Source:** https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html#:~:text=ly%20vaccinated%20people%20with%20asymptomatic,unvaccinated%20people.%20This%20means
+- **Takeaway:** vaccines do not prevent transmission entirely (especially from variant infections). However, vaccinated people appear to be infectious for a shorter period. That said one of the sources cited in this announcement specifically states that efficacy numbers should be "interpreted with caution". See the summary paragraph of: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/fulltext
+
+
+# General conclusion
+The vaccine has been generally effective in preventing hospitalization, especially in at-risk populations and with early varients of Covid-19. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily, with even the sources cited by the CDC mentioning that efficacy numbers should be interpreted with caution. 
+
+Much like the flu, the CDC has announced that booster shots will likely be neccessary to maintain a high level of protection (see: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html).

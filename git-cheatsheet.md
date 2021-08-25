@@ -34,7 +34,7 @@ Now that your git repository is setup, you can start using git. here are a coupl
 | --- | --- |
 | `git status` | shows the status of your local repository |
 | `git add .` | adds new files to the staging area (you can replace the "." with the path to a specific file if you just want to add one file) |
-| `git commit -m "<description>"` | commits the staged files to the local repository |
+| `git commit -am "<description>"` | commits the staged files to the local repository |
 | `git push origin master` | pushes the local repository to the remote repository. if you are working on a branch other than master, replace "master" with the branch name. |
 | `git pull origin master` | pulls the remote repository to the local repository. if you are working on a branch other than master, replace "master" with the branch name |
 
@@ -42,7 +42,7 @@ Now that your git repository is setup, you can start using git. here are a coupl
 > 1. I use one of the methods at the top to setup my git repository.
 > 2. then I start working on my project, adding new files, writing code, etc.
 > 3. when I'm done, I run `git add .` to add all the new files to the staging area.
-> 4. then I run `git commit -m "<description>"` to commit the new files to the local repository.
+> 4. then I run `git commit -am "<description>"` to commit the new files to the local repository.
 > 5. finally I run `git push origin master` to push the local repository to the remote repository.
 
 If I switch to a new computer, I'll either use `git clone <url>` to download the repository from github or `git pull origin master` to update an exisiting local repository.
