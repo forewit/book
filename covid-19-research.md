@@ -20,7 +20,7 @@ Notes on basic research into Covid-19 including notes on my lookup process.
 - **Source:** https://www.acpjournals.org/doi/full/10.7326/M20-7357
 - **Caveats:** none
 - **Conclusion (in it's entirety):** the paper is short and does not offer a summary conclusion. 
-- **Takeaway:** General disposition is that vaccines are needed, but concerns are raised that long-term effects are unknown.
+- **Takeaway:** General disposition is that vaccines are useful, but concerns are raised that long-term effects are unknown.
 
 ## Discussion on vaccine safety
 - **Search path:** Scholar.google.com > Search "Covid-19 vaccine safety" > filter by written in 2021 > second result (first was related to early monitoring)
