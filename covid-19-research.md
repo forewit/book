@@ -1,6 +1,7 @@
-# Learning what I can...
+# Learning what I can 💡...
 Notes on Covid-19 vaccines including sources and discovery method.
 
+&nbsp;
 ## Expected vaccine efficacy and effects on transmission (pre-vaccine)
 - **Search path:** Scholar.google.com > Search "Covid-19 vaccine transmission" > first result
 - **Source:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505651/
@@ -34,8 +35,8 @@ Notes on Covid-19 vaccines including sources and discovery method.
 - **Source:** https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html#:~:text=ly%20vaccinated%20people%20with%20asymptomatic,unvaccinated%20people.%20This%20means
 - **Takeaway:** vaccines do not prevent transmission entirely (especially from variant infections). However, vaccinated people appear to be infectious for a shorter period. That said one of the sources cited in this announcement specifically states that efficacy numbers should be "interpreted with caution". See the summary paragraph of: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/fulltext
 
-
-> # General conclusion
-> The vaccine has been generally effective in preventing hospitalization and moderate to severe symptoms, especially with early varients of Covid-19. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily. Even sources cited by the CDC mention that efficacy numbers should be interpreted with caution.
+&nbsp;
+# General conclusion
+> The vaccine has been generally effective in preventing hospitalization and moderate to severe symptoms, especially with early varients of Covid-19 and in at-risk population groups. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily. Even sources cited by the CDC mention that efficacy numbers should be interpreted with caution.
 > 
 > Also, much like the influenza the CDC has announced that booster shots will likely be neccessary to maintain a high level of protection (see: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html).
