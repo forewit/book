@@ -35,7 +35,7 @@ Notes on Covid-19 vaccines including sources and discovery method.
 - **Takeaway:** vaccines do not prevent transmission entirely (especially from variant infections). However, vaccinated people appear to be infectious for a shorter period. That said one of the sources cited in this announcement specifically states that efficacy numbers should be "interpreted with caution". See the summary paragraph of: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/fulltext
 
 
-# General conclusion
-The vaccine has been generally effective in preventing hospitalization, especially in at-risk populations and with early varients of Covid-19. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily, with even the sources cited by the CDC mentioning that efficacy numbers should be interpreted with caution. 
-
-Much like the flu, the CDC has announced that booster shots will likely be neccessary to maintain a high level of protection (see: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html).
+> # General conclusion
+> The vaccine has been generally effective in preventing hospitalization and moderate to severe symptoms, especially with early varients of Covid-19. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily. Even sources cited by the CDC mention that efficacy numbers should be interpreted with caution.
+> 
+> Also, much like the influenza the CDC has announced that booster shots will likely be neccessary to maintain a high level of protection (see: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html).
