@@ -1,4 +1,4 @@
-# book
+# My wonderful book of notes 📚
 This page is a simple collection of notes and lessons learned.
 
 > 1. [Git Cheatsheet](git-cheatsheet.md)
