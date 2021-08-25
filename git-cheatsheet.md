@@ -3,6 +3,7 @@
 - [Clone an existing repo from github](#clone-an-existing-repository-from-github)
 - [Using git](#using-git)
 
+&nbsp;
 # Create a new repository
 Create a new folder and cd into it:
 ```bash
@@ -17,6 +18,7 @@ Go ahead and create a new repository on github and copy the git url. Then you ca
 $ git remote add origin <git-url>
 ```
 
+&nbsp;
 # Clone an existing repository from github
 Use the `git clone` command to clone a repository from github:
 ```bash
@@ -24,6 +26,7 @@ $ git clone <git URL>
 ```
 **That's it!** you do not need use `git init` becasause cloning a repository will create a new directory for you with all the git configuration done.
 
+&nbsp;
 # Using git
 Now that your git repository is setup, you can start using git. here are a couple of commands to get you started:
 
