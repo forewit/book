@@ -1,7 +1,7 @@
-# Setting up a git repository
-There are two main ways that I start working on a project with git:
-1. Start from scratch by creating a new repository locally and pushing it to github
-2. Start by cloning an existing repository from github
+# Getting Started 🎉
+[Create a new repo](#create-a-new-repository)
+[Clone an existing repo from github](#clone-an-existing-repository-from-github)
+[Using git](#using-git)
 
 ## Create a new repository
 Create a new folder and cd into it:
