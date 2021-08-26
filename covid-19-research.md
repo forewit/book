@@ -30,8 +30,6 @@ Notes on Covid-19 vaccines including sources and discovery method.
 - **Conclusion (in it's entirety):** Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.
 - **Takeaway:** long term studies (neccesarily) have not been done.
 
-## Case study
-
 ## CDC Announcement about the Delta Varriant:
 - **Source:** https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html#:~:text=ly%20vaccinated%20people%20with%20asymptomatic,unvaccinated%20people.%20This%20means
 - **Takeaway:** vaccines do not prevent transmission entirely (especially from variant infections). However, vaccinated people appear to be infectious for a shorter period. That said one of the sources cited in this announcement specifically states that efficacy numbers should be "interpreted with caution". See the summary paragraph of: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01358-1/fulltext
