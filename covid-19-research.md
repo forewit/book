@@ -36,6 +36,6 @@ Notes on Covid-19 vaccines including sources and discovery method.
 
 &nbsp;
 # General conclusion
-> The vaccine has been generally effective in preventing hospitalization and moderate to severe symptoms, especially with early varients of Covid-19 and in at-risk population groups. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily. Even sources cited by the CDC mention that efficacy numbers should be interpreted with caution.
+> The vaccine has been effective in preventing hospitalization and severe symptoms, especially with early varients of Covid-19 and in at-risk population groups. However, there are many unknowns (especially regarding long-term impacts) and more information comming daily. Even sources cited by the CDC mention that efficacy numbers should be interpreted with caution.
 > 
 > Also, much like the influenza the CDC has announced that booster shots will likely be neccessary to maintain a high level of protection (see: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/booster-shot.html).
